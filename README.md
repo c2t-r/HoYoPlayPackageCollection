@@ -1,2 +1,2 @@
 # HypPackageCollection
-HoYoPlay game packagex collection
+HoYoPlay game packages collection
